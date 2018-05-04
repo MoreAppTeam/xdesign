@@ -4,19 +4,19 @@
 		{
 			"themeName": "P Icon Pack",
 			"packageName": "me.xdesignteam.iconpack.p",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/Q1_piconpack.jpg",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/Q1_piconpack_ad.jpg",
 			"iconURL": ""
 		},
 		{
 			"themeName": "Pix Color Icons",
 			"packageName": "me.xdesignteam.pix.color",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/Q2_pix_color.jpg",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/Q2_pix_color_ad.jpg",
 			"iconURL": ""
 		},
 		{
 			"themeName": "Pix Dark Icons",
 			"packageName": "me.xdesignteam.pix.dark",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/Q2_pix_dark.jpg",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/Q2_pix_dark_ad.jpg",
 			"iconURL": ""
 		}
 	]
