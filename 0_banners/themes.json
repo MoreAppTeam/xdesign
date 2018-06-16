@@ -2,6 +2,30 @@
 	"status": 1,
 	"data": [
 		{
+			"themeName": "Flamingo Icon Pack",
+			"packageName": "me.xdesignteam.iconpack.flamingo",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/x1_ad_flamingo.png",
+			"iconURL": ""
+		},
+		{
+			"themeName": "None Dark Icon Pack",
+			"packageName": "me.xdesignteam.iconpack.none.dark",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/x2_ad_nonedark.png",
+			"iconURL": ""
+		},
+		{
+			"themeName": "O Pro Icon Pack",
+			"packageName": "me.xdesignteam.iconpack.o.pro",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/x3_ad_opro.png",
+			"iconURL": ""
+		},
+		{
+			"themeName": "S9 Icon Pack",
+			"packageName": "me.xdesignteam.iconpack.s9",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/x4_ad_s9.png",
+			"iconURL": ""
+		},
+		{
 			"themeName": "P Icon Pack",
 			"packageName": "me.xdesignteam.iconpack.p",
 			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/Q1_piconpack_ad.jpg",
