@@ -1,1 +1,143 @@
-
+{
+	"wallpapers": [{
+			"name": "Deaault",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/default.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 1",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/1.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 2",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/2.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 3",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/3.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 4",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/4.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 5",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/5.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 6",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/6.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 7",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/7.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 8",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/8.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 9",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/9.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 10",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/10.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 11",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/11.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 12",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/12.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 13",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/13.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 14",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/14.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 15",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/15.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 16",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/16.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 17",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/17.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 18",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/18.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Wallpaper 19",
+			"author": "From the Internet",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Comb%20S10/Wallpapers/19.jpg",
+			"dimensions": "1440x2560",
+			"copyright": "Credits to its creator"
+		}
+	]
+}
