@@ -1,8 +1,8 @@
 {
 	"wallpapers": [{
 			"name": "Default",
-			"author": "From the Internet",
-			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Line/wallpapers/default.jpg",
+			"author": "XDesign",
+			"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/LemonLine/wallpapers/default.jpg",
 			"dimensions": "1440x2560",
 			"copyright": "Credits to its creator"
 		}
