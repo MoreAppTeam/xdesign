@@ -8,6 +8,12 @@
 			"iconURL": ""
 		},
 		{
+			"themeName": "Lemon Line Icon Pack",
+			"packageName": "me.xdesignteam.iconpack.lemonline",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/lemonline_ad_banner.jpg",
+			"iconURL": ""
+		},
+		{
 			"themeName": "Line Icon Pack",
 			"packageName": "me.xdesignteam.iconpack.line",
 			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/line_ad_banner.jpg",
