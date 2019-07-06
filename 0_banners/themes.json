@@ -14,9 +14,15 @@
 			"iconURL": ""
 		},
 		{
-			"themeName": "Line Icon Pack",
-			"packageName": "me.xdesignteam.iconpack.line",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/line_ad_banner.jpg",
+			"themeName": "Mate 20 Icon Pack",
+			"packageName": "me.xdesignteam.iconpack.mate20",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/mate20_ad_banner.jpg",
+			"iconURL": ""
+		},
+		{
+			"themeName": "One UI Icon Pack",
+			"packageName": "me.xdesignteam.iconpack.oneui",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/x5_oneui_ad_banner.png",
 			"iconURL": ""
 		},
 		{
@@ -26,9 +32,9 @@
 			"iconURL": ""
 		},
 		{
-			"themeName": "Mate 20 Icon Pack",
-			"packageName": "me.xdesignteam.iconpack.mate20",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/mate20_ad_banner.jpg",
+			"themeName": "Line Icon Pack",
+			"packageName": "me.xdesignteam.iconpack.line",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/line_ad_banner.jpg",
 			"iconURL": ""
 		},
 		{
