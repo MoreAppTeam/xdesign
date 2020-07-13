@@ -2,9 +2,9 @@
 	"status": 1,
 	"data": [
 		{
-			"themeName": "Unlock Clock Wallpaper",
-			"packageName": "com.xappteam.unlock.clock",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/unlock_clock_land.png",
+			"themeName": "LED Scroller",
+			"packageName": "com.xapp.ledscroller",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/app_led_scroller_land.jpg",
 			"iconURL": ""
 		},
 		{
